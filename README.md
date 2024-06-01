@@ -4,6 +4,9 @@
 <h3>Features</h3>
 
 -<b>Live Face Recognition</b>: Utilizes your webcam to capture and recognize faces in real-time.
--Automated Attendance: Automatically logs the recognized faces and marks attendance in a CSV file.
--User-Friendly Interface: Simple and intuitive interface for ease of use.
--High Accuracy: Implements advanced face recognition algorithms to ensure high accuracy.
+
+-<b>Automated Attendance</b>: Automatically logs the recognized faces and marks attendance in a CSV file. 
+
+-<b>User-Friendly Interface</b>: Simple and intuitive interface for ease of use.
+
+-<b>High Accuracy</b>: Implements advanced face recognition algorithms to ensure high accuracy.
